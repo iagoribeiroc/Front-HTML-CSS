@@ -1,0 +1,72 @@
+body {
+    background-color:rgb(255, 247, 234);
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.secao {
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.img-logo {
+    width: 200px;
+}
+
+a {
+    margin: 0 10px;
+    color:rgb(97, 69, 34);
+}
+
+h1{
+    font-size: 28px;
+    border-top: 1px solid rgb(134, 98, 54);
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 10px;
+    font-weight: normal;
+    color: orange;
+}
+
+.img-padaria {
+    width: 700px;
+    border-radius: 15px;
+}
+
+.secao-destaque {
+    background-color: rgb(255, 173, 21);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    border-radius: 15px;   
+}
+
+.secao-destaque h3 {
+    font-size: 24px;
+}
+
+.secao-destaque h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.secao-destaque p {
+    line-height: 28px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.secao-destaque img {
+    width: 400px;
+    margin-top: 10px;
+    border-radius: 15px; 
+}
+
+span {
+    font-weight: bold;
+}

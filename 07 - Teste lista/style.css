@@ -1,0 +1,25 @@
+span {
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.yellow {
+    color: yellow;
+}
+
+div {
+    width: 600px;
+    text-align: center;
+    margin: 1px auto;
+}
